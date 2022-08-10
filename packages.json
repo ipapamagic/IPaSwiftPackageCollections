@@ -1,0 +1,26 @@
+{
+  "name": "IPa's Collections",
+  "packages": [
+    {
+      "url": "https://github.com/ipapamagic/IPaLog.git"
+    },
+    {
+      "url": "https://github.com/ipapamagic/IPaUIKitHelper.git"
+    },
+    {
+      "url": "https://github.com/ipapamagic/IPaFileCache.git"
+    },
+    {
+      "url": "https://github.com/ipapamagic/IPaDownloadManager.git"
+    },
+    {
+      "url": "https://github.com/ipapamagic/IPaDownloadManager.git"
+    },
+    {
+      "url": "https://github.com/ipapamagic/IPaImageTool.git"
+    },
+    {
+      "url": "https://github.com/ipapamagic/IPaSecurity.git"
+    }
+  ]
+}
